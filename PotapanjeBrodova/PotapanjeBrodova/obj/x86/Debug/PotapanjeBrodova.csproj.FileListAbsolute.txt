@@ -1,0 +1,8 @@
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\bin\Debug\PotapanjeBrodova.exe
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\bin\Debug\PotapanjeBrodova.pdb
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.Form1.resources
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.Properties.Resources.resources
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.csproj.GenerateResource.Cache
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.exe
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.pdb
+C:\Users\Ucenik-SM-17\Desktop\Rad\PotapanjeBrodova\PotapanjeBrodova\obj\x86\Debug\PotapanjeBrodova.FormKraj.resources
